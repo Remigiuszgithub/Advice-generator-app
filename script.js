@@ -1,4 +1,3 @@
-// Dodaj kod, który pobierze poradę przy ładowaniu strony
 document.addEventListener('DOMContentLoaded', function () {
     fetchAdvice();
   });
